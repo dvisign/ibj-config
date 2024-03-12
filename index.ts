@@ -1,2 +1,2 @@
-export * from "@/eslint-config"
-export * from "@/typescript-config"
+export * from "./eslint-config"
+export * from "./typescript-config"

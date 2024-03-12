@@ -14,6 +14,6 @@
     }
   },
   "include": ["eslint-config/index.ts", "typescript-config/index.ts",".eslintrc.js", "rollup.config.mjs", "index.ts"],
-  "exclude": ["node_modules"],
-  "ignorePattern": ["dist/*"]
+  "exclude": ["node_modules", "dist/**"],
+  "ignorePattern": ["dist/**"]
 }

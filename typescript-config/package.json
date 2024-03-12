@@ -1,0 +1,11 @@
+{
+  "name": "@ibj/typescript-config",
+  "private": true,
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "base.json",
+    "next-config.json",
+    "react-library.json"
+  ]
+}
